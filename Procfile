@@ -1,0 +1,1 @@
+web: gunicorn flexylite.wsgi --log-file -
