@@ -106,8 +106,3 @@ Contributions are welcome! To contribute:
 
 ---
 
-## Contact  
-
-For support or inquiries:  
-- **GitHub**: [kneeraazon404](https://github.com/kneeraazon404)  
-- **Email**: kneeraazon@gmail.com  
